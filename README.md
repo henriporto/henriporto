@@ -3,7 +3,7 @@
 - 📘 Financial Market and Information Security enthusiastic
 - 👨‍🎓 Majoring in Computer Science - IC/UFF 
  <div>
- <img align="right" alt="e.e" width="300" src="https://giffiles.alphacoders.com/138/138167.gif">
+ <img align="right" alt="e.e" width="165" src="https://lh4.googleusercontent.com/RjqE0WzqanHMLyVLfYxhUIyB1EICizUmq0fuDqydE5CaR0JRPQPXc86zI_Ww8gci22bAl85flj6jK4MCBeon=w1920-h912">
   <a href="https://github.com/henriporto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriporto&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
  
