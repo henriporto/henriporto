@@ -1,7 +1,7 @@
 ## xD
 
-- 📘👨‍🎓 Financial Market and Information Security enthusiastic
-- IC/UFF Majoring in Computer Science
+- 📘 Financial Market and Information Security enthusiastic
+- 👨‍🎓 IC/UFF Majoring in Computer Science
  <div>
   <a href="https://github.com/henriporto">
   <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
